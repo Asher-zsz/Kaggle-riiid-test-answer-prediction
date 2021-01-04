@@ -1,2 +1,3 @@
 # Kaggle-riiid-test-answer-prediction
-try remote control
+
+Update kernels available so far. *Complete Solutions* will be uploaded after the competition.
